@@ -1,5 +1,5 @@
 # EasyCart
-EasyCart, um projeto em JAVA desenvolvido por Thiago Reis de Sousa e Vinicius Oliveira Sousa.
+EasyCart, um projeto sendo desenvolvido por Thiago Reis de Sousa e Vinicius Oliveira Sousa.
 
 ![EasyCartScreen](https://user-images.githubusercontent.com/61464525/175038514-689de84f-b9f7-4c94-bcf1-88fe3bd00f66.png)
 
